@@ -9,8 +9,11 @@ Programs included
 
 2.Operators program
 
+3.If-else loop problems
 
-(More programs will be added soon....)
+4.While loop problems
+
+5.Fahrenheit to celsius program
 
 
 What i am learning
@@ -22,6 +25,8 @@ What i am learning
 3.use of operators
 
 4.problem solving skills
+
+5.use of loops
 
 
 How to run
